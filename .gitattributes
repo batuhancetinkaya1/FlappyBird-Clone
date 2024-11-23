@@ -1,5 +1,2 @@
 *.cs    linguist-language=C#
-*.unity linguist-language=Unity
-*.prefab linguist-language=Unity
-*.asset linguist-language=Unity
-*.meta linguist-language=Unity
+*.shader linguist-vendored
