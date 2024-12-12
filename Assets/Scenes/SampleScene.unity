@@ -4147,7 +4147,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9162621411796187921, guid: 4b17df58db37be54faf12f778e36b238, type: 3}
       propertyPath: verticalJumpSpeed
-      value: 3.5
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
