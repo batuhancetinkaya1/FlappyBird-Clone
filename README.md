@@ -26,7 +26,7 @@ Welcome to the **FlappyBird-Clone** project! This repository contains a Unity-ba
    ```bash
    git clone https://github.com/batuhancetinkaya1/FlappyBird-Clone.git
    ```
-2. Open the project in Unity (tested with Unity version [2022.3.44f1]).
+2. Open the project in Unity (tested with Unity version 2022.3.44f1).
 3. Play the game by opening the `Main Scene` and pressing the Play button in the Unity Editor.
 
 You can also play the game directly on [itch.io](https://batuhancetinkaya.itch.io/flappy-bird-clone).
